@@ -1,3 +1,10 @@
+# Setup 
+
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
 # StudySync (AI110 Tinker Starter)
 
 Starter code for the AI110 **Tinker 1B / 2B / 3B** in-class activities. All three tinkers
